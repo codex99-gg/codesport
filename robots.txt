@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://codex99-gg.github.io/codesport/sitemap.xml
